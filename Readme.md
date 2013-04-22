@@ -23,6 +23,10 @@ The client IP address is determined by the following:
 1. Check the x-forwarded-for HTTP header for a remote IP address.
 2. Check the req.connection.remoteAddress property.
 
+## Source
+
+https://github.com/primaryobjects/remoteip
+
 ## Author
 
 Kory Becker
