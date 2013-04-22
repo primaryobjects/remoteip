@@ -1,7 +1,7 @@
 {
   "name": "remoteip",
   "version": "0.1.0",
-  "description": "Returns the client IP address for the remote browser.",
+  "description": "Get the client IP address for the remote browser.",
   "author": {
     "name": "Kory Becker",
     "email": "kbecker@primaryobjects.com",
