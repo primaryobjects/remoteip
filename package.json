@@ -1,0 +1,40 @@
+{
+  "name": "remoteip",
+  "version": "0.1.0",
+  "description": "Returns the client IP address for the remote browser.",
+  "author": {
+    "name": "Kory Becker",
+    "email": "kbecker@primaryobjects.com",
+    "url": "http://www.primaryobjects.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/primaryobjects/remoteip.git"
+  },
+  "main": "./lib",
+  "dependencies": {},
+  "engines": {
+    "node": ">= 0.8.x"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "ip",
+    "ip address",
+    "remote",
+    "client",
+    "ipaddress",
+	"remoteaddress",
+	"connection",
+	"remoteip",
+	"remote-ip",
+	"remote ip",
+	"client ip"
+  ],
+  "_id": "remoteip@0.1.0",
+  "_from": "remoteip"
+}
